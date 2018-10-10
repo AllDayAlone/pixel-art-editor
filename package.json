@@ -1,0 +1,15 @@
+{
+  "name": "pixel-art-editor",
+  "version": "1.0.0",
+  "description": "A simple app that allow you to create pixel art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Kalugin",
+  "license": "MIT",
+  "repository": "git@github.com:AllDayAlone/pixel-art-editor.git",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
